@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushen Kumar</h1>
-<h3 align="center">A passionate Passionate Cybersecurity Enthusiast and Developer</h3>
+<h3 align="center">A Passionate Cybersecurity Enthusiast and Developer</h3>
 
 - 🌱 I’m currently learning **Bug Bounty , CEH**
 
