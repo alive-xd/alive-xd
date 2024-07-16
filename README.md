@@ -15,6 +15,8 @@
 <a href="https://www.hackerrank.com/alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alivexd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sushen-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fhfh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hjhjh" height="30" width="40" /></a>
+  <a href="https://medium.com/alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alivexd" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alivexd" height="30" width="40" /></a>
 </p>
 
 
