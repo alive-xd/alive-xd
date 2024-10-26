@@ -14,6 +14,25 @@
 <a href="https://instagram.com/sushen.pvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushen.pvt" height="30" width="40" /></a>
 
 </p>
+name: TryHackMe Update Badge
+
+on:
+  schedule:
+    # Make it run every 24 hour
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  tryhackme-badge-update:
+    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          # Replace with your tryhackme username
+          username: "<alivexd>"
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
+                                                  # and will pull your github token automatically
 
 
   <h3 align="left">Support:</h3>
