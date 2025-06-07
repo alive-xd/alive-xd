@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushen Kumar </h1>
-<h3 align="center">A passionatHighly skilled ethical hacker with expertise in cybersecurity, penetration testing, and digital forensicse . </h3>
+<h3 align="center">A passionate Highly skilled ethical hacker with expertise in cybersecurity, penetration testing, and digital forensicse . </h3>
 
 - 🌱 I’m currently learning **Bug Bounty**
 
