@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sushen Kumar </h1>
-<h3 align="center">A passionate Highly skilled ethical hacker with expertise in cybersecurity, penetration testing, and digital forensicse . </h3>
+<h1 align="center">Hi , I'm Sushen  </h1>
+<h3 align="center"> I build security tools, forensic workflows, W3B systems, and automation that solve real cybersecurity and engineering problems. </h3>
 
-- 🌱 I’m currently learning **Bug Bounty**
-
-- 👯 I’m looking to collaborate on **Cybersecurity Projects**
-
-- 📫 How to reach me **xsushen@gmail.com**
 
 - More Info  **[My Portfolio](https://sushen-kumar.vercel.app/)**
 
