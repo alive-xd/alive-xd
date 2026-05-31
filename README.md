@@ -50,3 +50,5 @@ I build security tools, automation frameworks, AI-powered applications, and inte
 [![LeetCode](https://img.shields.io/badge/LeetCode-alivexd-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/alivexd)
 [![HackerRank](https://img.shields.io/badge/HackerRank-alivexd-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/alivexd)
 [![Codeforces](https://img.shields.io/badge/Codeforces-alivexd-1F8ACB?style=flat-square&logo=codeforces)](https://codeforces.com/profile/alivexd)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-alivexd-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/alivexd)
+
