@@ -1,21 +1,52 @@
-<h1 align="center">Hi , I'm Sushen  </h1>
-<h3 align="center"> I build security tools, forensic workflows, W3B systems, and automation that solve real cybersecurity and engineering problems. </h3>
+# Hi, I'm Sushen Kumar 👋
 
+### Cybersecurity Researcher • Security Automation • AI Engineering
 
-- More Info  **[My Portfolio](https://sushen-kumar.vercel.app/)**
+I build security tools, automation frameworks, AI-powered applications, and intelligent systems focused on threat analysis, cybersecurity operations, and solving real-world engineering challenges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sushen-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushen-kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/sushen.pvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushen.pvt" height="30" width="40" /></a>
-<a href="https://medium.com/@alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alivexd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alivexd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alivexd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alivexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alivexd" height="30" width="40" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-black?style=flat-square)](https://sushen-kumar.vercel.app/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushen_Kumar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sushen-kumar/)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alivexd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alivexd" /></a></p><br><br>
+---
+
+## Tech Stack
+
+### Languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com)
+
+### Backend & Infrastructure
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)](https://redis.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://linux.org)
+
+### AI & Data
+
+[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)](https://qdrant.tech)
+[![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6B6B?style=flat-square)](https://www.sbert.net)
+
+### Frontend
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)](https://react.dev)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-black?style=flat-square)](https://sushen-kumar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushen_Kumar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sushen-kumar/)
+[![Medium](https://img.shields.io/badge/Medium-@alivexd-black?style=flat-square&logo=medium)](https://medium.com/@alivexd)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-alivexd-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/alivexd)
+[![HackerRank](https://img.shields.io/badge/HackerRank-alivexd-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/alivexd)
+[![Codeforces](https://img.shields.io/badge/Codeforces-alivexd-1F8ACB?style=flat-square&logo=codeforces)](https://codeforces.com/profile/alivexd)
