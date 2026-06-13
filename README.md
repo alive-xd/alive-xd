@@ -4,9 +4,9 @@
 
 I build security tools, automation frameworks, AI-powered applications, and intelligent systems focused on threat analysis, cybersecurity operations, and solving real-world engineering challenges.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-black?style=flat-square)](https://sushen-kumar.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-black?style=flat-square)](https://sushen-kumar.vercel.app/)      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushen_Kumar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sushen-kumar/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushen_Kumar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sushen-kumar/)
+
 
 ---
 
